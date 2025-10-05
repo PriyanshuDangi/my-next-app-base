@@ -23,4 +23,4 @@ export const minikitConfig = {
       ogDescription: "",
       ogImageUrl: `https://my-next-app-base.vercel.app/blue-hero.png`,
     },
-  } as const;
+  };
